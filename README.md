@@ -110,6 +110,11 @@ Katkıda Bulunma
 Lütfen sorunları bildirin, depoyu forklayın ve pull request gönderin!
 
 İletişim
-Herhangi bir soru veya sorun için lütfen hakanbacak@ ile iletişime geçin.
+Herhangi bir soru veya sorun için lütfen
+
+https://www.facebook.com/khan8006
+https://twitter.com/hakantrkgl
+https://instagram.com/hakanturkgl
+https://www.linkedin.com/in/hakanturkgl
 
 
